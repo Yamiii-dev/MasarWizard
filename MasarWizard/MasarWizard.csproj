@@ -1,0 +1,18 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+	<RestoreProjectStyle>PackageReference</RestoreProjectStyle>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net9.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="GigaPenterEngine" Version="1.0.0" />
+    <PackageReference Include="GigaPenterEngine.Audio.MiniAudio" Version="1.0.0" />
+    <PackageReference Include="GigaPenterEngine.Networking" Version="1.0.0" />
+    <PackageReference Include="GigaPenterEngine.Renderer.PentaKit" Version="1.0.0" />
+  </ItemGroup>
+
+</Project>

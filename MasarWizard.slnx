@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="MasarWizard/MasarWizard.csproj" />
+  <Project Path="MasarWizardServer/MasarWizardServer.csproj" />
+</Solution>
