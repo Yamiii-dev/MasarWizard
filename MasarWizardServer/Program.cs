@@ -1,4 +1,5 @@
 ﻿using GigaPenterEngine;
+using GigaPenterEngine.Networking;
 
 namespace MasarWizardServer
 {
