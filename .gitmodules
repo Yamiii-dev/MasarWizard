@@ -1,0 +1,3 @@
+[submodule "EnginePackages"]
+	path = EnginePackages
+	url = https://github.com/Yamiii-dev/EnginePackages.git

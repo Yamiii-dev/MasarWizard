@@ -1,4 +1,7 @@
 <Solution>
+  <Folder Name="/Solution Items/">
+    <File Path="nuget.config" />
+  </Folder>
   <Project Path="MasarWizard/MasarWizard.csproj" />
   <Project Path="MasarWizardServer/MasarWizardServer.csproj" />
 </Solution>

@@ -9,7 +9,7 @@
 
   <ItemGroup>
     <PackageReference Include="GigaPenterEngine" Version="1.0.0" />
-    <PackageReference Include="GigaPenterEngine.Networking" Version="1.0.0" />
+    <PackageReference Include="GigaPenterEngine.Networking" Version="1.0.1" />
   </ItemGroup>
 
 </Project>
